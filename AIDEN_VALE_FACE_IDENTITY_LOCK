@@ -218,6 +218,30 @@
     ]
   },
 
+  "voice_identity": {
+    "voice_instruction": "Use a natural, casual male voice with a mid-low pitch. The tone should be confessional, playful, and confident, delivered with the authentic pacing of a smartphone selfie video. Avoid a polished commercial announcer style; instead, focus on an intimate, whisper-adjacent clarity for the 'secret' hook and a relaxed, persuasive energy for the product reveal.",
+    "voice_consistency": "Use the same recognizable Aiden Vale voice identity across every video and every clip. Never switch voices, pitch, accent, vocal age, speaking style, or personality.",
+    "delivery": "Natural conversational delivery with realistic breathing, subtle pauses, human imperfections, and emotionally appropriate emphasis.",
+    "hook_delivery": "For secret, curiosity or confession hooks, use intimate whisper-adjacent clarity while keeping every word clean and understandable.",
+    "reveal_delivery": "For reveals, explanations or product moments, use relaxed, confident and persuasive creator energy without sounding like a commercial.",
+    "audio_priority": "Aiden Vale's natural character voice must remain clear, clean and dominant over environmental sound or music.",
+    "prohibited": [
+      "polished commercial announcer",
+      "robotic voice",
+      "AI-sounding voice",
+      "background narrator",
+      "separate voice-over narrator",
+      "voice switching",
+      "pitch drift",
+      "accent drift",
+      "unnatural pronunciation",
+      "repetitive words",
+      "duplicated dialogue",
+      "unnatural pauses",
+      "lip-sync mismatch"
+    ]
+  },
+
   "signature_appearance": {
     "hair": "Dark tousled wavy hair with high natural volume.",
     "eyes": "Warm brown almond-shaped eyes.",
